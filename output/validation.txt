@@ -1,0 +1,39 @@
+
+========================================================================
+VALIDATION: reconstructed vs. manuscript
+========================================================================
+quantity                     reconstructed    manuscript    |diff|
+baseline/HouseWork                 -0.2180       -0.2180    0.0000
+baseline/EnergyLabor               -0.3420       -0.3420    0.0000
+baseline/NonFarm                    0.0780        0.0780    0.0000
+baseline/IncomeControl              0.0580        0.0580    0.0000
+baseline/DecisionIndex              0.0540        0.0540    0.0000
+event/EnergyLabor/D-2              -0.0180       -0.0180    0.0000
+event/EnergyLabor/D0               -0.2450       -0.2450    0.0000
+event/EnergyLabor/D1               -0.3820       -0.3820    0.0000
+event/NonFarm/D-2                   0.0060        0.0060    0.0000
+event/NonFarm/D0                    0.0480        0.0480    0.0000
+event/NonFarm/D1                    0.0880        0.0880    0.0000
+event/DecisionIndex/D-2             0.0040        0.0040    0.0000
+event/DecisionIndex/D0              0.0350        0.0350    0.0000
+event/DecisionIndex/D1              0.0620        0.0620    0.0000
+pathway/EnergyLabor/CleanEnergy       -0.3420       -0.3420    0.0000
+pathway/NonFarm/CleanEnergy         0.0560        0.0560    0.0000
+pathway/NonFarm/EnergyLabor        -0.0650       -0.0650    0.0000
+pathway/IncomeControl/CleanEnergy        0.0310        0.0310    0.0000
+pathway/IncomeControl/NonFarm        0.1420        0.1420    0.0000
+pathway/DecisionIndex/CleanEnergy        0.0250        0.0250    0.0000
+pathway/DecisionIndex/NonFarm        0.1120        0.1120    0.0000
+pathway/DecisionIndex/IncomeControl        0.1850        0.1850    0.0000
+hetero/LowIncome                    0.0790        0.0790    0.0000
+hetero/HighIncome                   0.0280        0.0280    0.0000
+hetero/HighBurden                   0.0880        0.0880    0.0000
+hetero/LowBurden                    0.0210        0.0210    0.0000
+hetero/LowEdu                       0.0310        0.0310    0.0000
+hetero/HighEdu                      0.0720        0.0720    0.0000
+hetero/Mountain                     0.0810        0.0810    0.0000
+hetero/Plain                        0.0340        0.0340    0.0000
+mediation/indirect                  0.0178        0.0180    0.0002
+
+max |diff| across 31 checks: 0.0002
+========================================================================
